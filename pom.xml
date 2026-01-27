@@ -25,8 +25,9 @@
     
     <distributionManagement>
         <repository>
-            <id>nexus-releases</id>
-            <url>http://nexus:8081/repository/maven-releases/</url>
+            <id>nexus</id>
+<!--            <url>http://nexus:8081/repository/maven-releases/</url>-->
+            <url>http://nexus:8081/repository/calculatrice-rep/</url>
         </repository>
     </distributionManagement>
 

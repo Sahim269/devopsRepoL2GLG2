@@ -31,7 +31,7 @@
         </repository>
         <snapshotRepository>
             <id>nexus</id>
-            <url>http://nexus:8081/repository/calculatrice-snapshots/</url>
+            <url>http://nexus:8081/repository/alculatrice-rep/</url>
         </snapshotRepository>
     </distributionManagement>
 
